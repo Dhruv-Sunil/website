@@ -1,0 +1,45 @@
+h1{
+    color:blueviolet
+}
+p{
+    color:blue
+}
+td{
+color:aqua
+
+}
+a:link{
+    color:red
+}
+a:visited{
+    color:green
+}
+
+
+
+*{
+    border-top-color:gold;
+    border-bottom-color:gold;
+    border-left-color:gold;
+    border-right-color:gold;
+    border-width: 5px;
+    border-style:double
+    
+}
+
+.header{
+background-image:url("light.jpg");
+display:flex;
+justify-content: space-around;
+
+}
+
+table, th, td {
+     border: 2px solid silver;
+      text-align:center;
+     }
+      th, td {
+           padding: 20px;
+           background-image:url("glo.jpg");
+         }
+        
